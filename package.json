@@ -7,8 +7,7 @@
   },
   "dependencies": {
     "@de-fi/sdk": "^2.1.7",
-    "nitropack": "latest",
-    "ws": "^8.13.0"
+    "nitropack": "latest"
   },
   "devDependencies": {
     "tslib": "^2.6.0"
