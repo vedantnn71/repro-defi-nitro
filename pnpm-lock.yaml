@@ -11,6 +11,9 @@ dependencies:
   nitropack:
     specifier: latest
     version: 2.5.2
+  ws:
+    specifier: ^8.13.0
+    version: 8.13.0
 
 devDependencies:
   tslib:
